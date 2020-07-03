@@ -1,0 +1,52 @@
+{
+  "name": "المحترف العربي",
+  "short_name": "Tharabic",
+  "start_url": "https://www.tharabic.com",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-FCtk8pqqjQc/Xv-yRmmgmHI/AAAAAAAAKMk/hcmJ4Etnbis4EGlFUiJoxVp_tQ_D5X0WwCLcBGAsYHQ/s72/logo.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-FCtk8pqqjQc/Xv-yRmmgmHI/AAAAAAAAKMk/hcmJ4Etnbis4EGlFUiJoxVp_tQ_D5X0WwCLcBGAsYHQ/s96/logo.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-FCtk8pqqjQc/Xv-yRmmgmHI/AAAAAAAAKMk/hcmJ4Etnbis4EGlFUiJoxVp_tQ_D5X0WwCLcBGAsYHQ/s128/logo.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-FCtk8pqqjQc/Xv-yRmmgmHI/AAAAAAAAKMk/hcmJ4Etnbis4EGlFUiJoxVp_tQ_D5X0WwCLcBGAsYHQ/s144/logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-FCtk8pqqjQc/Xv-yRmmgmHI/AAAAAAAAKMk/hcmJ4Etnbis4EGlFUiJoxVp_tQ_D5X0WwCLcBGAsYHQ/s152/logo.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-FCtk8pqqjQc/Xv-yRmmgmHI/AAAAAAAAKMk/hcmJ4Etnbis4EGlFUiJoxVp_tQ_D5X0WwCLcBGAsYHQ/s192/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-FCtk8pqqjQc/Xv-yRmmgmHI/AAAAAAAAKMk/hcmJ4Etnbis4EGlFUiJoxVp_tQ_D5X0WwCLcBGAsYHQ/s384/logo.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-FCtk8pqqjQc/Xv-yRmmgmHI/AAAAAAAAKMk/hcmJ4Etnbis4EGlFUiJoxVp_tQ_D5X0WwCLcBGAsYHQ/s512/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
